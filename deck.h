@@ -17,7 +17,7 @@ typedef enum kind_e
 	CLUB,
 	DIAMOND
 } kind_t;
-
+ 
 /**
  * struct card_s - Playing card
  *
